@@ -1,0 +1,319 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\offset.h(38,37): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\offset.h(39,38): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\function.h(73,12): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\function.h(96,17): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\function.h(97,17): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56388): message : Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56397): message : Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56406): message : Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56415): message : Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56424): message : Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56433): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56442): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56457): message : Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56466): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56475): message : Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56484): message : Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56493): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56502): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56512): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56521): message : Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56531): message : Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56540): message : Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56550): message : Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56559): message : Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56568): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56578): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56587): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56865): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,1): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56874): message : Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56884): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,1): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56893): message : Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56841): message : Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56850): message : Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\overlay.h(39,74): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\main.cpp(310,64): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\main.cpp(310,37): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\main.cpp(331,25): warning C4474: "sprintf_s": zu viele Argumente für Formatzeichenfolge übergeben
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\main.cpp(331,25): message : Platzhalter und deren Parameter erwarten 0 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\main.cpp(340,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\main.cpp(340,26): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\main.cpp(344,65): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\main.cpp(344,34): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\main.cpp(380,20): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\main.cpp(384,93): warning C4244: "Argument": Konvertierung von "T" in "int", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\main.cpp(384,47): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\main.cpp(637,32): warning C4244: "=": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\main.cpp(638,32): warning C4244: "=": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\main.cpp(776,37): warning C4244: "=": Konvertierung von "uint64_t" in "DWORD", möglicher Datenverlust
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\main.cpp(779,10): warning C4129: " ": nicht erkannte Folge von Escapesequenz
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\offset.h(38,37): warning C4838: Konvertierung von "int" zu "float" erfordert eine einschränkende Konvertierung
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\singleton.h(17): message : beim Kompilieren der Klasse Vorlage-Memberfunktion "T &Singleton<T>::Get(void)"
+          with
+          [
+              T=BloodHunt::Variables
+          ]
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\function.h(96): message : Siehe Verweis auf die gerade kompilierte Instanziierung "T &Singleton<T>::Get(void)" der Funktions-Vorlage.
+          with
+          [
+              T=BloodHunt::Variables
+          ]
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\offset.h(23): message : Siehe Verweis auf die gerade kompilierte Klasse Vorlage-Instanziierung "Singleton<BloodHunt::Variables>".
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\offset.h(39,38): warning C4838: Konvertierung von "int" zu "float" erfordert eine einschränkende Konvertierung
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\Mhyprot\baseadress.h(19,30): warning C4244: "Argument": Konvertierung von "uint64_t" in "int", möglicher Datenverlust
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\function.h(55): message : Siehe Verweis auf die gerade kompilierte Instanziierung "bool read_array<wchar_t>(uint64_t,T *,size_t)" der Funktions-Vorlage.
+          with
+          [
+              T=wchar_t
+          ]
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\Mhyprot\baseadress.h(15,31): warning C4244: "Argument": Konvertierung von "uint64_t" in "int", möglicher Datenverlust
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\main.cpp(49): message : Siehe Verweis auf die gerade kompilierte Instanziierung "bool write<float>(uint64_t,const T &)" der Funktions-Vorlage.
+          with
+          [
+              T=float
+          ]
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\Mhyprot\baseadress.h(11,31): warning C4244: "Argument": Konvertierung von "uint64_t" in "int", möglicher Datenverlust
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\Mhyprot\baseadress.h(25): message : Siehe Verweis auf die gerade kompilierte Instanziierung "bool read<T>(uint64_t,T &)" der Funktions-Vorlage.
+          with
+          [
+              T=DWORD_PTR
+          ]
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\function.h(170): message : Siehe Verweis auf die gerade kompilierte Instanziierung "T read<DWORD_PTR>(uint64_t)" der Funktions-Vorlage.
+          with
+          [
+              T=DWORD_PTR
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(2584,23): warning C4244: "Argument": Konvertierung von "wchar_t" in "const _Elem", möglicher Datenverlust
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(2595): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)" der Funktions-Vorlage.
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(2595): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)" der Funktions-Vorlage.
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(2575): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)" der Funktions-Vorlage.
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(2575): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)" der Funktions-Vorlage.
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\function.h(65): message : Siehe Verweis auf die gerade kompilierte Instanziierung "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)" der Funktions-Vorlage.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\function.h(65): message : Siehe Verweis auf die gerade kompilierte Instanziierung "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)" der Funktions-Vorlage.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  baseadress.cpp
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\Mhyprot\readbase.hpp(10,1): warning C4005: "NT_SUCCESS": Makro-Neudefinition
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\Mhyprot\nt.hpp(34): message : Siehe vorherige Definition von "NT_SUCCESS"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(66,1): warning C4005: "STATUS_WAIT_0": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2510): message : Siehe vorherige Definition von "STATUS_WAIT_0"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(222,1): warning C4005: "STATUS_ABANDONED_WAIT_0": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2511): message : Siehe vorherige Definition von "STATUS_ABANDONED_WAIT_0"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(245,1): warning C4005: "STATUS_USER_APC": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2512): message : Siehe vorherige Definition von "STATUS_USER_APC"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(281,1): warning C4005: "STATUS_TIMEOUT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2513): message : Siehe vorherige Definition von "STATUS_TIMEOUT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(290,1): warning C4005: "STATUS_PENDING": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2514): message : Siehe vorherige Definition von "STATUS_PENDING"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(737,1): warning C4005: "DBG_EXCEPTION_HANDLED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2515): message : Siehe vorherige Definition von "DBG_EXCEPTION_HANDLED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(746,1): warning C4005: "DBG_CONTINUE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2516): message : Siehe vorherige Definition von "DBG_CONTINUE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(821,1): warning C4005: "STATUS_SEGMENT_NOTIFICATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2517): message : Siehe vorherige Definition von "STATUS_SEGMENT_NOTIFICATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(984,1): warning C4005: "STATUS_FATAL_APP_EXIT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2518): message : Siehe vorherige Definition von "STATUS_FATAL_APP_EXIT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1304,1): warning C4005: "DBG_REPLY_LATER": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2519): message : Siehe vorherige Definition von "DBG_REPLY_LATER"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1322,1): warning C4005: "DBG_TERMINATE_THREAD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2520): message : Siehe vorherige Definition von "DBG_TERMINATE_THREAD"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1331,1): warning C4005: "DBG_TERMINATE_PROCESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2521): message : Siehe vorherige Definition von "DBG_TERMINATE_PROCESS"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1340,1): warning C4005: "DBG_CONTROL_C": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2522): message : Siehe vorherige Definition von "DBG_CONTROL_C"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1349,1): warning C4005: "DBG_PRINTEXCEPTION_C": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2523): message : Siehe vorherige Definition von "DBG_PRINTEXCEPTION_C"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1358,1): warning C4005: "DBG_RIPEXCEPTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2524): message : Siehe vorherige Definition von "DBG_RIPEXCEPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1367,1): warning C4005: "DBG_CONTROL_BREAK": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2525): message : Siehe vorherige Definition von "DBG_CONTROL_BREAK"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1376,1): warning C4005: "DBG_COMMAND_EXCEPTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2526): message : Siehe vorherige Definition von "DBG_COMMAND_EXCEPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1385,1): warning C4005: "DBG_PRINTEXCEPTION_WIDE_C": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2527): message : Siehe vorherige Definition von "DBG_PRINTEXCEPTION_WIDE_C"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1417,1): warning C4005: "STATUS_GUARD_PAGE_VIOLATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2528): message : Siehe vorherige Definition von "STATUS_GUARD_PAGE_VIOLATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1428,1): warning C4005: "STATUS_DATATYPE_MISALIGNMENT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2529): message : Siehe vorherige Definition von "STATUS_DATATYPE_MISALIGNMENT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1439,1): warning C4005: "STATUS_BREAKPOINT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2530): message : Siehe vorherige Definition von "STATUS_BREAKPOINT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1450,1): warning C4005: "STATUS_SINGLE_STEP": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2531): message : Siehe vorherige Definition von "STATUS_SINGLE_STEP"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1753,1): warning C4005: "STATUS_LONGJUMP": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2532): message : Siehe vorherige Definition von "STATUS_LONGJUMP"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1780,1): warning C4005: "STATUS_UNWIND_CONSOLIDATE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2533): message : Siehe vorherige Definition von "STATUS_UNWIND_CONSOLIDATE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1884,1): warning C4005: "DBG_EXCEPTION_NOT_HANDLED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2534): message : Siehe vorherige Definition von "DBG_EXCEPTION_NOT_HANDLED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2030,1): warning C4005: "STATUS_ACCESS_VIOLATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2535): message : Siehe vorherige Definition von "STATUS_ACCESS_VIOLATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2039,1): warning C4005: "STATUS_IN_PAGE_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2536): message : Siehe vorherige Definition von "STATUS_IN_PAGE_ERROR"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2057,1): warning C4005: "STATUS_INVALID_HANDLE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2537): message : Siehe vorherige Definition von "STATUS_INVALID_HANDLE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2102,1): warning C4005: "STATUS_INVALID_PARAMETER": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2538): message : Siehe vorherige Definition von "STATUS_INVALID_PARAMETER"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2202,1): warning C4005: "STATUS_NO_MEMORY": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2539): message : Siehe vorherige Definition von "STATUS_NO_MEMORY"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2259,1): warning C4005: "STATUS_ILLEGAL_INSTRUCTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2540): message : Siehe vorherige Definition von "STATUS_ILLEGAL_INSTRUCTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2340,1): warning C4005: "STATUS_NONCONTINUABLE_EXCEPTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2541): message : Siehe vorherige Definition von "STATUS_NONCONTINUABLE_EXCEPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2349,1): warning C4005: "STATUS_INVALID_DISPOSITION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2542): message : Siehe vorherige Definition von "STATUS_INVALID_DISPOSITION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3282,1): warning C4005: "STATUS_ARRAY_BOUNDS_EXCEEDED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2543): message : Siehe vorherige Definition von "STATUS_ARRAY_BOUNDS_EXCEEDED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3292,1): warning C4005: "STATUS_FLOAT_DENORMAL_OPERAND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2544): message : Siehe vorherige Definition von "STATUS_FLOAT_DENORMAL_OPERAND"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3302,1): warning C4005: "STATUS_FLOAT_DIVIDE_BY_ZERO": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2545): message : Siehe vorherige Definition von "STATUS_FLOAT_DIVIDE_BY_ZERO"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3312,1): warning C4005: "STATUS_FLOAT_INEXACT_RESULT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2546): message : Siehe vorherige Definition von "STATUS_FLOAT_INEXACT_RESULT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3322,1): warning C4005: "STATUS_FLOAT_INVALID_OPERATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2547): message : Siehe vorherige Definition von "STATUS_FLOAT_INVALID_OPERATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3332,1): warning C4005: "STATUS_FLOAT_OVERFLOW": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2548): message : Siehe vorherige Definition von "STATUS_FLOAT_OVERFLOW"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3342,1): warning C4005: "STATUS_FLOAT_STACK_CHECK": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2549): message : Siehe vorherige Definition von "STATUS_FLOAT_STACK_CHECK"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3352,1): warning C4005: "STATUS_FLOAT_UNDERFLOW": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2550): message : Siehe vorherige Definition von "STATUS_FLOAT_UNDERFLOW"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3362,1): warning C4005: "STATUS_INTEGER_DIVIDE_BY_ZERO": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2551): message : Siehe vorherige Definition von "STATUS_INTEGER_DIVIDE_BY_ZERO"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3372,1): warning C4005: "STATUS_INTEGER_OVERFLOW": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2552): message : Siehe vorherige Definition von "STATUS_INTEGER_OVERFLOW"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3382,1): warning C4005: "STATUS_PRIVILEGED_INSTRUCTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2553): message : Siehe vorherige Definition von "STATUS_PRIVILEGED_INSTRUCTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4328,1): warning C4005: "STATUS_STACK_OVERFLOW": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2554): message : Siehe vorherige Definition von "STATUS_STACK_OVERFLOW"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4845,1): warning C4005: "STATUS_DLL_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2555): message : Siehe vorherige Definition von "STATUS_DLL_NOT_FOUND"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4874,1): warning C4005: "STATUS_ORDINAL_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2556): message : Siehe vorherige Definition von "STATUS_ORDINAL_NOT_FOUND"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4884,1): warning C4005: "STATUS_ENTRYPOINT_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2557): message : Siehe vorherige Definition von "STATUS_ENTRYPOINT_NOT_FOUND"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4894,1): warning C4005: "STATUS_CONTROL_C_EXIT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2558): message : Siehe vorherige Definition von "STATUS_CONTROL_C_EXIT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4972,1): warning C4005: "STATUS_DLL_INIT_FAILED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2559): message : Siehe vorherige Definition von "STATUS_DLL_INIT_FAILED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(5969,1): warning C4005: "STATUS_CONTROL_STACK_VIOLATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2560): message : Siehe vorherige Definition von "STATUS_CONTROL_STACK_VIOLATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(7527,1): warning C4005: "STATUS_FLOAT_MULTIPLE_FAULTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2561): message : Siehe vorherige Definition von "STATUS_FLOAT_MULTIPLE_FAULTS"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(7537,1): warning C4005: "STATUS_FLOAT_MULTIPLE_TRAPS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2562): message : Siehe vorherige Definition von "STATUS_FLOAT_MULTIPLE_TRAPS"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(7669,1): warning C4005: "STATUS_REG_NAT_CONSUMPTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2563): message : Siehe vorherige Definition von "STATUS_REG_NAT_CONSUMPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(8652,1): warning C4005: "STATUS_HEAP_CORRUPTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2564): message : Siehe vorherige Definition von "STATUS_HEAP_CORRUPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(8880,1): warning C4005: "STATUS_STACK_BUFFER_OVERRUN": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2565): message : Siehe vorherige Definition von "STATUS_STACK_BUFFER_OVERRUN"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(9007,1): warning C4005: "STATUS_INVALID_CRUNTIME_PARAMETER": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2566): message : Siehe vorherige Definition von "STATUS_INVALID_CRUNTIME_PARAMETER"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(9070,1): warning C4005: "STATUS_ASSERTION_FAILURE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2567): message : Siehe vorherige Definition von "STATUS_ASSERTION_FAILURE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(9988,1): warning C4005: "STATUS_ENCLAVE_VIOLATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2568): message : Siehe vorherige Definition von "STATUS_ENCLAVE_VIOLATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(10415,1): warning C4005: "STATUS_INTERRUPTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2569): message : Siehe vorherige Definition von "STATUS_INTERRUPTED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(10424,1): warning C4005: "STATUS_THREAD_NOT_RUNNING": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2570): message : Siehe vorherige Definition von "STATUS_THREAD_NOT_RUNNING"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(10718,1): warning C4005: "STATUS_ALREADY_REGISTERED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2571): message : Siehe vorherige Definition von "STATUS_ALREADY_REGISTERED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(14352,1): warning C4005: "STATUS_SXS_EARLY_DEACTIVATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2573): message : Siehe vorherige Definition von "STATUS_SXS_EARLY_DEACTIVATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(14361,1): warning C4005: "STATUS_SXS_INVALID_DEACTIVATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2574): message : Siehe vorherige Definition von "STATUS_SXS_INVALID_DEACTIVATION"
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\Mhyprot\readbase.hpp(106,33): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\Mhyprot\readbase.hpp(106,33): message : Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\Mhyprot\readbase.hpp(122,16): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\Mhyprot\readbase.hpp(122,16): message : Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\Mhyprot\baseadress.cpp(234,10): warning C4476: "printf": Unbekanntes Typfeldzeichen "/" im Formatbezeichner.
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\Mhyprot\baseadress.cpp(234,10): warning C4476: "printf": Unbekanntes Typfeldzeichen "P" im Formatbezeichner.
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\Mhyprot\baseadress.cpp(234,10): warning C4476: "printf": Unbekanntes Typfeldzeichen "(" im Formatbezeichner.
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\Mhyprot\baseadress.cpp(234,10): warning C4476: "printf": Unbekanntes Typfeldzeichen ")" im Formatbezeichner.
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\Mhyprot\readbase.hpp(400,1): warning C4267: "Argument": Konvertierung von "size_t" nach "ULONG", Datenverlust möglich
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\Mhyprot\baseadress.cpp(53): message : Siehe Verweis auf die gerade kompilierte Instanziierung "std::unique_ptr<SYSTEM_HANDLE_INFORMATION,std::default_delete<SYSTEM_HANDLE_INFORMATION>> QueryInfo<SYSTEM_HANDLE_INFORMATION>(SYSTEM_INFORMATION_CLASS)" der Funktions-Vorlage.
+  file_utils.cpp
+  mhyprot.cpp
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\Mhyprot\mhyprot.cpp(293,46): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "DWORD", Datenverlust möglich
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\Mhyprot\mhyprot.cpp(302,25): warning C4267: "=": Konvertierung von "size_t" nach "ULONG", Datenverlust möglich
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\Mhyprot\mhyprot.cpp(331,24): warning C4267: "=": Konvertierung von "size_t" nach "ULONG", Datenverlust möglich
+C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\HackExternal\Mhyprot\mhyprot.cpp(355,24): warning C4267: "=": Konvertierung von "size_t" nach "ULONG", Datenverlust möglich
+  service_utils.cpp
+  utils.cpp
+  win_utils.cpp
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+  All 1966 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  HackExternal.vcxproj -> C:\Users\Junkyyy\Downloads\bloodhunt\BloodHunt_External-main\HackExternal\x64\Release\HackExternal.exe
